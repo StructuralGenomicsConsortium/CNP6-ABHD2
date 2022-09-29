@@ -1,6 +1,8 @@
 # CNP6-ABHD2
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 6) devoted to the target α,β-Hydrolase Domain-containing Protein 2
 
+Our collective aim is to find a potent, selective, cell penetrant, small molecule inhibitor ("chemical probe") of the protein ABHD2 in order to understand its role in biology, and to stimulate the search for potential drugs. Our specific focus at the moment is to explore ABHD2's role as a target for new non-hormonal female contraceptives, as part of a project supported by a grant from the Bill and Melinda Gates Foundation to the Structural Genomics Consortium.
+
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
