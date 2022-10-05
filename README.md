@@ -21,7 +21,7 @@ Dr Eve Carter, University College London, postdoc (chemistry and biology) @EveCa
 Dr Oliver Arnolds, Karolinska Institut, postdoc (biology) @OliverArnolds  
 Dr Martin Haraldsson, Researcher, Karolinska Institut, @MartinHaraldsson
 Dr Evert Homan, Karolinska Institut, Senior Research Specialist  @Evert-Homan  
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant  
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): [Jeffrey Mowat, Janssen](https://www.linkedin.com/in/jeffrey-mowat-4571856a/) @jsmowat  
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant  
 
 You can see all the other contributors in the Issues (tab above).
