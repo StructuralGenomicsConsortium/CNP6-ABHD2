@@ -18,9 +18,10 @@ Current scientific status of the project is on the [wiki](https://github.com/Str
 Some humans involved in this Open Chemistry Networks Project:  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
 Dr Eve Carter, University College London, postdoc (chemistry and biology) @EveCarter  
-Dr Oliver Arnolds, Karolinska Institut, postdoc (biology)  
-Dr Evert Homan, Karolinska Institut, Senior Research Specialist  
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant  
+Dr Oliver Arnolds, Karolinska Institut, postdoc (biology) @OliverArnolds  
+Dr Martin Haraldsson, Researcher, Karolinska Institut, @MartinHaraldsson
+Dr Evert Homan, Karolinska Institut, Senior Research Specialist  @Evert-Homan  
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): [Jeffrey Mowat, Janssen](https://www.linkedin.com/in/jeffrey-mowat-4571856a/) @jsmowat  
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant  
 
 You can see all the other contributors in the Issues (tab above).
