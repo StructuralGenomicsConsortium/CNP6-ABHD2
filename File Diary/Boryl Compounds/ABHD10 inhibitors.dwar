@@ -1,0 +1,68 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1666794071471">
+<rowcount="9">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D	FragFp	Name	Structure	Inhibition	Delta Tm	cLogP
+!Bmww~_xa}mpK~@K]}|syWo_y_JKuW`ox`U{uUiK]}bGw~_{\BbGvw_[]}b@Jw@k\Bmwvw_[\B?g~w@ha}mwvH@oy?mpJH_[_}m?vH@k\BbGvH@dz@tLw@ieRD	=U:MtxnvxYEGd2N@NRHF23U_!@csDZ1!W#30F51820a!F28F42@%20F11B#V42#F080F	UNC2500	eg_ZFF@AmckiZFCKGL`IABPpdNIBRPTdLbdLATa`LTtRRrTVRTRRVrbUWRvuOImmTuTuAA@AUUUUUTE@@P	4.3	3.3	4.6979
+!BmwvH__y?mpJH@ha}mwvw_Xa}b@Jw@k\Bb@Jw_[]}ShCPs[\B?g~w@lBfUHRH_[]}?`BH@oy?m?rw?Hc}bOw~@Oy?bGvH@oy?	;UvQztMzxYzwvUGdGPEswLwa3fh_0PcNDX1F0W02030F5FV31Z08HX8Lo2@04#21F0140F2k6242kFV0FF	UNC0638	ejYZD@@CKDlhPFLdTRbRRVRbbRrabRRqTDt|RjZnA~ahJB``hjjjjjjBh@@	6.1		5.5099
+!Bu{u~Oxb}upI~@M^}BuxWOWx_JCtW@gx`EsvaqM^}bKu~O}_|bKwWo]]}b@KW@m_|u{wW_]\B_c?W?Hb}u{vH@m\BbKwWoXc|upJHo]^}bOsW@hz@tDvOS]F@pBYTaDnDgrX	;xzS:MlxnQC2EG92F@N8H022J_!@8kDZ1!1#3!10820a!F28F42@%20F104#V42#F080F	UNC2496	ed|vFF@AmckaYZFCKGL`IABPpdNIBRPTdLbdLATa`LTtRRrTVRRRRRRbbRUWRvsoh\]TuTuAA@AUUUUUUUAP@D	8.7	2.9	4.9962
+!BmwvH__y?m?rH@ha}m?vw?_x@bGvH@k_|m?rH?Hc|m?vw?Xa}m?s~_{_|bGtWxvx@b@K~_q}ZNyRH?Xc}mYB?R_y?_vzH_P	;UvQztUwhnzovUIv0H7NuHy43A__0PcNDV302W0FV10F7203GW10H@8Ll3e!2#1!1461204342VFV0FF	UNC0194	ebQVD@@KLbjohPFLdTRbTRRVRtQTTRRRVpagbTVStOpMAPA@@AUUUUU@T@@@	8.9	2.5	3.6808
+!BmwvH__y?m?rH_[_}m?vH@k_|m?rw?[_}m?s~_{_|bGvw_X`B?g~w@ha}m?vw?X`BmpJH_[]}b@Jw@dz@tLw@ieRD	;Ov9zOMlx3QB2EF90F@N8H0220_!@8mDV50V12!3!1V020Z!F68F42@4VF!H0FV04#V42#FV0FF	UNC2277	edZZL@@EKGOC`JMdinU]YuYU]UmxdLlzfAahHH@JjBBJjj@`@@	13.0	3.3	4.9556
+!BMwup_[x?M{qp_S]}MwupoC^|M{pw_S]}M{r~Os^|Mwup_Wx@M{pw_@bBMwu~@Gx@M{pH`c]}_`Bw?Hc|s|tq`BnDwzX	;Ov9zOMlxYQB@EG90F@N8H4620_!@8mDV50V12!3!1V02FZ!F68F42@4VF!H0FV04#V43020FV0FF	UNC2278	elVZL@@EKGOK`JCdinU]Yy^UWU[^ICKAehTZBB@BjhHHjjhB@@@	13.3	3.3	5.205
+!BmwvH__y?m?rH@ha}mwvw_Xa}b@Jw?K_|b@Jw_[]}ShCPs[_|?g~w?LBfUHRH_[]}mww~@H`B?g~w?K_|bOvH?_x@?g~H_X`B?g|	;UvQztMzxYzwvUGdGPEswLwa3fh_0PcNDX1F0Y02830F5FV3GZ08HX8Lo2@04#21F0142F2k6342kF#F	UNC0737	efUZD@@CKDldPFLdTRbRRVRbbRtTLrRVJ`fgbUSStHJMAPTDEEUUUUUTEP@@	18.4	3.5	5.7593
+!BM{tHoWz?M?pH?@b}Mwtw_Pb}BOpw?C_|BOpw_S]}bOw~@C_|_k|w?@b}EvNn@Da|og|_fmlTBKtHo[TPoxf~_w~nBKt	;UvQztMyhYzovUIfkP7NsHyZ3Ahh0PcNDV302W0V010F7203GW!H@8Lk3e!2#1!1421204342VFV0FF	UNC0406	elVVD@@CDlbg`PFLdTRbRRVRbbjbbRRRvDt|RnA^~hJB``hjjjjj`h@@	22.2	3.3	4.2505
+!Bm?vH__y?mpJH_[_}m?vH@k\BmpJw?[_}mpK~_{\BbGvw_X`B?g?~_{\BbOvH?[_}m?w~_{\BbGvw_P	;QvQztMwC3tonUFd0H7NsHs03A_!PcN6V1!V#10F5!30V!H28LF0@*14$42!VFV0FF	UNC0200	eghVD@@EKGOEm`JDinU]YufUWwbPrsiZ[Z```@jjjjj`h@@	26.7	5.4	2.2904
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@D">
+</hitlist data>
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_Delta Tm="80">
+<columnWidth_Table_Inhibition="80">
+<columnWidth_Table_Name="80">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_cLogP="80">
+<currentRecord="0">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<filter0="#double#	cLogP">
+<filterAnimation0="state=stopped low2=80% high1=20% time=10">
+<formLayout_Form View="TableLayout,3,9.0,-1.0,9.0,15,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0">
+<formObjectCount_Form View="4">
+<formObjectInfo_Form View_0="Name	textLine	1, 1, 1, 1, full, full">
+<formObjectInfo_Form View_1="Structure	structure	1, 3, 1, 9, full, full">
+<formObjectInfo_Form View_2="Inhibition	textLine	1, 11, 1, 11, full, full">
+<formObjectInfo_Form View_3="Delta Tm	textLine	1, 13, 1, 13, full, full">
+<headerLines_Table="2">
+<labelColumn_Structures_bottomCenter="Inhibition">
+<labelColumn_Structures_topCenter="Name">
+<mainSplitting="0.73123">
+<mainView="Table">
+<mainViewCount="3">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	center">
+<mainViewDockInfo2="Form View	center">
+<mainViewInFront0="true">
+<mainViewName0="Table">
+<mainViewName1="Form View">
+<mainViewName2="Structures">
+<mainViewType0="tableView">
+<mainViewType1="formView">
+<mainViewType2="structureView">
+<rightSplitting="0.65682">
+<rowHeight_Table="80">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="5">
+</datawarrior properties>

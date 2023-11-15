@@ -1,0 +1,117 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1689253257845">
+<rowcount="37">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D	FragFp	Structure	Structure No	Comment
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy?m?w~@K_|m?s~@@	:UvzvzyzOzjvydfC_SsyAxCKAAjZVFCzCg28mFY02G2VJT1H8J0Fh2V08J2H0@V0J@0F!8124N8V0VV%	fj}a@@D@rJJJJIIKFYIUc^rUjjjjh@JHDh@@	1	Amide analogue of TH14125
+!B?g~w?Xc}m?s~_x`Bm?w~@K_}?`BH__y?m?rH@h`Bm?w~@Ha}m?rw?Ox@	:UvzvzyzSzjvydQCbCszAwCoA3EZoFCzBg@8mFYF2G2cFT1H9L0Fh0V0BJ220@V$F0G81H4N8V!XVV0F0	ffcQ@@DX@dsKKKoN|c^RVkUUUUPPEDBT@@	2	Exocyclic urea analogue of TH14125
+!B?g~H?[_}b@Jw?Oy??`BH_[_}?`Bw?X`Bb@K~_{_|bGvw?_x@m?rw?Ox@	?y;j:hQCbhwzEwCof3EZwFCzBg@cmNnFXG2sFT1I9L0Fh0V0BJ220@V4#F0G81H4N8V!X2$	ffc``@L@QdTRbbbRRqfRtzpRuZjjjj`@haR`@	3	Carbamate analogue of TH14125
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@H	:UvzvzyzO:vTdfCpSNu@zCME@zZVFCf9h28nFY0HkXVJ69H8F1G90c48JXH0@V1JD1J!8#F0V0VV%	fbma@@D@rJJJJIIQ[Hj|XJ\mUUUAPEDBT@@	4	Amide analogue of CBK600191
+!B?g~H?[_}b@K~_|?RL[~H_Xc}J{nYpM~Y?g|_Fklkf\@_Fa|Zf\@	:UvzvzyzSzjvy9QCbCsvAxCoA37ZkFCzBg@8YFYF2G2cFT1H9L4Fh2V0BF2H0@V$J0F81@4s8V!VV$	fbmQ@@DXAdTTTRTRIbReYQdyZjjjh@JHLh@@	5	Cpd 184
+!B?g~w?Xc}s}Hqox`B?g|knyg@wyfH_Xc}Gqk~_{lkf\@_Fa|Zf\@	:UvzvzyzOzjvy9fC_SsuAxCKAAbZVFCzCg28nFY02G2VJT1H8J4Fh2V0842H0@V0J@0J!81@4s8V0V&	fbma@@D@RYfYW~uDhsdyZjjjh@JHDh@@	6	Amide analogue of Cpd 184
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?K_}?`Bw?K_|?`@	:UvzvzyzS:nytQCjCurAxhq87UgkJSzDw@9nFYF@KeglTY6QL1Fh2_0BJ2I1@V0W!o0FC124N8#XV1!V	fbmI@@DXYhFQQQQQIINIIUmFSejjjV`@h`R`@	7	
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?K_}?`Bw?K_|?`@	:UvzvzyzS:nytQCjCurAxhq87UgkJSzDw@9nFYF@KeglTY6OL1Fh2_0RJ2I1@V0W!o0F9124N8#XV1!V	fbmI@@DXYpFQQQQQIINIIUmFSejjjV`@h`R`@	8	
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?K_}?`Bw?K_|?`@	:UvzvzyzS:nytQCjCurAxhq87UgkJSzDw@9nFYF@KeglTY6QL1Fh2_0RJ2I1@V0W!o0F9124N82!XV1!V	fbmI@@DXXXFQQQQQIINIIUmFSejjjV`@h`R`@	9	
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?MKOm?w~@H@qTv^w?K_|tl?Rs?x@Tv\	:UvzvzyzS:nytQCzCvrAxhq8MUgkJSzTw@CnFYF@KeglyY6QT1Nh2_0BJ@I1@VVW02o0FC124NN#XV1!V	fewI@@DXYhFQQQQQIIGQQIIYUmFjOlvjjiZ`@@B``R`@	10	
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?HANm?w~@MKPKF^w?K_|`Dz@Sox@KF\	:UvzvzyzS:nytQCjCvrAxhq8MUgkJSzTw@CnFYF@KeglTY6QT1Fh2_0RJ@I1PV0W02o0F9124NN#XV1!V	fewI@@DXYpFQQQQQIIXqQIIYUmFjOlvjjiZ`@@B``R`@	11	
+!B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?HANm?w~@MKPKF^w?K_|`Dz@Sox@KF\	:UvzvzyzS:nytQCzCvrAxhq8MUgkJSzTw@CnFYF@KeglyY6QT1Nh2_0RJ@I1PVVW02o0F9124N82!XV1!V	fewI@@DXXXFQQQQQIIXqQIIYUmFjOlvjjiZ`@@B``R`@	12	
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy??`Bw?[_|m?rw?P	:UvzvzyrSzjvydQCbCsUAxCoA3EZkFCzBg@8mFYF2G2cFT1H1L0Fh2V0RJ2H0@V$F0F81!N8V!VV#F	fj}q@@DXBCHhhhhddlYdeVM{IVjjjj`@h`R`@	13	
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy??`Bw?[_|m?rw?P	:UvzvzyrSzjvydQCbCsUAxCoA3EZkFCzBg@8mFYF2G2cFT1H1L0Fh2V0RJ2H0@V$F0F81!N8V!VV#F	fj}q@@DXRCHhhhhddlYdeVM{IVjjjj`@h`R`@	14	
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy?m?w~@K_|m?s~@@	:UvzvzyrSzjvydQCbCsUAxCoA3EZkFCzBg@8mFYF2G2cFT1H1L0Fh2V0RJ2H0@V$F0F81!N8V!VV#F	fj}q@@DXJCHhhhhddlYdeVM{IVjjjj`@h`R`@	15	
+!B_X`Bm{_}b@Jw?Oy??`BH?[_}?`Bw?X`BbOs~_{_|bOvw?_x@m?rw?Ox@	:UvvvzyzSzjvydQEbCszAxhoA3EakFCzB4@8qHfF2GHdOT1H9L0Fh2V24J1F0@V$F0G8W24P8V!V01#	ffcPb@LD``@QddabbbRRqfRtzpRuVjjjj`@haR`@	16	
+!B_X`Bm{_}b@Jw?Oy??`BH?[_}?`Bw?X`BbOs~_{_|bOvw?_x@m?rw?Ox@	:UvvvzyzOzjvydAE_CsyAxhJA3EaVFCzB428qHf02GHWOT1H8J0Fh2V20J1F0@V$F018W24P8V!V01#	ffc`b@LPP@HrRPqQQIIXsIZ]XIZkUUUUP@TPiP@	17	
+!B?g~w?Xc}m?s~_x`B?g~w?[_}bGvH?[_|?g?~_{_}?`Bw?K_|?`@	:UvzfzTzOzjQDNAC5RuuA99gEXZZZFBTCg882G180G6VV20LOL0FZ2!cF2H0@02Z01F020384!80VVV$	fbmQ@@DXAdTTTRRTvaRe[SdyZjjjh@JHBH@@	18	
+!B?g~H?[_}b@K~_|?RL[~H_Xc}J{o_f_y?otySY|wPotz?SlwP	:UvzfzTzSzjQDNQE5Rmuf99iE2ZZZFBDCg0@3I1!O6VV02LSL4FZ280eF3H0@@0Z014020314V080VVV$	fluQ@@DXAdTTTRRVLRTcJuEKUUUT@EDET@@	19	
+!B?g~H?[_}b@K~_|?RL[~H_Xc}f\@kn}~Y?g|_FhQTf\BYpHQT	:UvzvzyzS:vT9QErCNu@vCaE2MZkFCf8h2@aHYFHkXcF69H9F5G90c4BFYH0@X104G!F!90k0V!VV$	fluQ@@DXAdTTTRTRtjTkZMEKUUUT@EDFT@@	20	
+!B?g~w?Xc}E~qn_x`B?g|v`A|eNznH_Xc}QprPbkVoos[~_sZ@MhBPb`	:UvzvzyzS:vTdQErCNu@zC6EXUZkFCv8h@@qHYNHkXcF69H8F1G90c4BJYH0@X104GF0F8010F0V!VV$	fj}Q@@DXAdTTTTRRbRrih~CdkUUUPU@TPIP@	21	
+!B?g~w?Xc}E~qn_x`B?g|_ISZ@NznH_Xc}mZ}GCK|v?g~omSZ@QpqGCCZ@	:UvzvzyzSzjvydQCbCszAxCoAYEZkFCzBg@8mFYN2G2cFT1H9L0Fh2V0BJ2H0@V$F0F8124N8V!VV$	ffcQ@@DXAdTTTTRRRQaRLFwbuZjjjj`@h`R`@	22	
+!B?g~w?Xc}E~qn_x`B?g|_ISnkbGvH?ZmDmZ~?Moy?w}eZXJmDjtQZX@	:UvzfzTzOzjQDNAC5RuufC9gEXZZZFBTCg883G180G6VV20LOL0FZ2!cJ2H0@!Z01J028304!80VVV$	fj}Q@@DXAdTTTRRTRtjVoV]dkUUUUP@TPDP@	23	
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@H	:UvzvzyrS:vTdQErCNP@zC6E2UZkFCf8h2@bHYFHkXcF69H0F1G90c4RJYH0@X104G40F8010F0V!VV#F	fbmq@@DXlCHhhhhdeElbkq`iruUUTE@TPIP@	24	
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@H	:UvzvzyrS:vTdQErCNP@zC6E2UZkFCf8h2@bHYFHkXcF69H0F1G90c4RJYH0@X104G40F8010F0V!VV#F	fbmq@@DXbCHhhhhdeElbkq`iruUUTE@TPIP@	25	
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@H	:UvzvzyrS:vTdQErCNP@zC6E2UZkFCf8h2@bHYFHkXcF69H0F1G90c4RJYH0@X104G40F8010F0V!VV#F	fbmq@@DXrCHhhhhdeElbkq`iruUUTE@TPIP@	26	
+!B?g~w?Xc}mpK~_?y?bOvH?_y?bOvw?X`B?g?~_?x@bOvw?X`B?g~H_Xc}?g|	:Uvzv;SzjvydUSjCszQxUoA3EZkQCzBi@9mFYG3G2cFU1H9L0Fh3V0BR2H8@V02!F0F8124N8k!VV$	fnsQA@EA|BHIDYEEEeeEDhcLdschu[A@UUSUUEPeP@	27	Topliss batchwise TH14125
+!BbOw~_xc|bOvH?Xc|bOw~_xc}m?vH?Oy??g?~@Hc}m?vH@oy?bGvH?_y?	:Uvzv;SzjvydQSbCszAxCoA3EZkQCzBg@8mFYF3G2cFT1H9L0Fh2V0BR2H0@V02!F0F8124N8k!VV$	ffcQB@I^\BHrJIKIQQJHsITYXIZp@UUSUUEPEP@	28	Topliss batchwise TH14125
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy?m?w~@K_|m?s~@K_|	:UvzvzyzSzjvydQSbCszAxCoA3EZkOCzBg@8mFYF3G2cFT1H9L0Fh2V0BR2H0@V$F0F8124N8k!VV$	ffcQ@@DXAdTTTTRRVLrVUXwleZjjjj@Bh`R`@	29	Topliss batchwise TH14125
+!B?g~w?Xc}mpK~_x`B?g~w?_x@m?vH_Xc}?g~w@oy?m?w~@K\BmpK~@K\B?`@	;vzv;xzjvyfQSbCszAxCoA3EZkOEzBg@8mFYH3G2cFT1H9L0FhHV0BR2H0@k$F0F81X4N8k!VV$	fnsP`@DXAWHhhhhddlYdleVM{IVjjjj`@jbAJ@@	30	Topliss batchwise TH14125
+!BbGvH@oy??`BH?Xa}?g?~_xa}mwvH@oy??g?~@Ha}mwvH@oy?bGvH?_y?	:Uvzv;S:vTdUUzCNuPzU6E2UZkQCf8j2AbHYGIkXcF79H8F1K91c4BRYH8@X124G60F8010F1V0IVV$	ffcQA@I^\BHIDYEEEehheDYdf\lDmXHBjijjbhBH@@	31	Topliss batchwise CBK600191
+!B?g~w_Xc}?g?~_xa}?g~H_[]}b@K~_?y??`BH_[]}b@K~_xa}bOw~_p	:Uvzv;S:vTdQUrCNu@zC6E2UZkQCf8h2@bHYFIkXcF69H8F1K90c4BRYH0@X124G40F8010F1V0GVV$	fj}QB@ANlBHrJIKJJIQFYJcC^rV@Bjijjbh\H@@	32	Topliss batchwise CBK600191
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@K~@@	:UvzvzyzS:vTdQUrCNu@zC6E2UZkOCf8h2@bHYFIkXcF69H8F1K90c4BRYH0@X104G40F8010F1V0GVV$	fj}Q@@DXAdTTTTRRbvQroFBgKUUUPTATPIP@	33	Topliss batchwise CBK600191
+!B?g~w_Xa}mpK~_x`B?g?~@K]}mwvH_Xc}mpJH@oy??g?~@Ox@b@K~@H`B	;vzv;x:vTfQUrCNu@zC6E2UZkOEf8h2@bHYHIkXcF69H8F1K9Fc4BRYH0@m104G40F80W0F1V0GVV$	ffcP`@DX@WHhhhhdeElcdkq`iruUUTE@UQ@e@@	34	Topliss batchwise CBK600191
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy?m?w~@K_|m?s~@@	=vzy;jzytQjbhmzftCZfYEokkhzBg@@bHbFXI2cFT0H9L0Fhe!BFIH0@XF!F40F012ZN8V08VV$	fj}P`@DXA[HhhhhddlYdeVM{IVjjjj`@h`R`@	35	
+!B?g~w?Xc}m?s~_x`B?g~w?_x@m?vH_Xc}?g~w?Oy?m?vw?_x@m?rw?Ox@	:UvzvzyzSzjvytQEbCmzftCiAYEZkFCzCg@@bHbF6Q2cFT@HCL1Fh@80BJ3m0@e240F40F0134N8V08VV$	ffcq@@DXlCHhhhhddmeBdjqoEjuUUUU@AQ@e@@	36	
+!B?g~w_Xa}mpK~_x`B?g~w__x@mwvH_Xc}?g~w@oy??`Bw@h`B?`C~@H`B	:UvzvzyzSzjvydQEbCNzAxCLA3EZkFCv8g@8nHYF2Gmc061H8F0FC0c2BJ3H0@V$J0F8010F0V!VV$	ffcQ@@DXAdTTTTRRVNbRUXwbuZjjjj`@h`R`@	37	
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@@@@@@A">
+</hitlist data>
+<datawarrior properties>
+<axisColumn_2D View_0="Structure">
+<axisColumn_2D View_1="Structure">
+<axisColumn_3D View_0="Structure">
+<axisColumn_3D View_1="Structure">
+<axisColumn_3D View_2="Structure">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnFilter_Table="">
+<columnWidth_Table_Comment="80">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_Structure No="80">
+<currentRecord="36">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<faceColor3D_3D View="-1250054">
+<fastRendering_2D View="false">
+<fastRendering_3D View="false">
+<filter0="#browser#	#disabled#	Structure	fbmI@@DXXXFQQQQQIINIIUmFSejjjV`@h`R`@ !B?g~w?Xc}m?s~_}CRSk~w?_x@m?uTn|BY?g~w?K_}?`Bw?K_|?`@">
+<filter1="#structure#	Structure">
+<filter2="#double#	Structure No">
+<filter3="#category#	Comment">
+<filterAnimation0="state=stopped">
+<filterAnimation2="state=stopped low2=80% high1=20% time=10">
+<headerLines_Table="2">
+<mainSplitting="0.73071">
+<mainView="Structures">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.499">
+<mainViewDockInfo2="Table	right	0.497">
+<mainViewDockInfo3="2D View	right	0.497">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structures">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.65127">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<scatterplotMargin_2D View="0.025">
+<scatterplotMargin_3D View="0.025">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="10">
+</datawarrior properties>

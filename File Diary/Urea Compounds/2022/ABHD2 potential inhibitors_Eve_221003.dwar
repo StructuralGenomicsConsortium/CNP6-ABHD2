@@ -1,0 +1,81 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1683044481588">
+<rowcount="26">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D 2">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp 2">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D 2	FragFp 2	Number	CAS	Supplier	Structure	cLogP
+!B?`BH@k\B?`Bw_[_|mpJw?[\B?`Bw_\?RLW|k^ye@Oyd_FglkfT@_Fa|ZfT@	?yzU:vzhvjrxNUfv9rAjzok4Cudh@@YJ7NLCXcJD3H5H5mg2W6DJ6m08@1J@VF0J119Fk0V80X06030	24	1940967-78-1	Enamine $118 for 5 mg (Z1454992288)	fnsQ`@AF@aRS\kmsOroANCUkUUSUU@AP@@	0.5416
+!B?g~w_Xa}mpK~_x`B?g~w_[]}bGvH_[\B?g?~_{]}?g~w@k]}mwvw@`	[r:jzizQEbgTUj99DfbD_ZkgPdg8e7Ip8Z3qVH2PrFF0F!88sFIH082H4!405029V#c8VV#F	13	2034525-67-0	Life Chemicals HTS Compounds, Canada, $104 for 5 mg	fj}q`@DXJ@slbbbbRRfqbRe[SleZjjjj@B`@@	1.111
+!Bf\BDUA|Zf\BYpA|Zf\BDUCF@pIfw?MCR?Hc~@K_}?g~w?K]}m?vw@k]}m?p	:Uvzv;S:vydvSrSNUfv9rAjzZkCCudh@8YF3NMCXcJD3H5H5qg2W6DJ2m08014@VF0J1180k0V8kX108V0	21	1605063-20-4	Enamine $91 for 5 mg (Z2362781323)	fnsqB@A^ZxDadTRVRbbTlRVUFFmdl@EUTuUTT@@	1.5207
+!B?g~w_Xa}mpK~_x`B?g~w_[_}bGvH?[\B?g?~_sF@s|w_ibnD	:UfzfzDrOzjQTN9CCRuP39dgAm_cZFBTfw892G18816ZV2Wqmm0PV040sF2L1842_!G#28F!20VcVW0FV	26	1436029-39-8	Enamine $91 for 5 mg (Z1341822669)	flui@@DX|FHLbbbbRRftJe[ShiZjjjiji@@	1.5864
+!B?g~H_[]}b@K~_?y?mpJH_Xa}mwvw__y?mpH	:UdzdzDrGzjQD89C4BFP2994A24VVFB@8g082F1#2V#H0F0F$8F2H08/#VV$	25	5395-04-0	Insight Biotechnology £41 for 5 g	dg}H@DpDfYeUyO[Zjjjj@@	2.1826
+!B?g~w_Xa}?g~w@m@rSk~w_[]}ilATn|BYmpJ{UN@Zmwvw@k]}?`Bw@k\B?`@	:UvzvzyzS:vy9vEbSNvevCrAfrZkFCv9h@@aFbN2uXcJ6AHCF5H9@V4DJXm0@e148k!F!A0k0V08VW!V0	15	2124028-42-6	Enamine $91 for 5 mg (Z2279163650)	fnsp`@DX|AvQQQQIQKPeQIRmhuVmUUUST@EDFP@	2.2024
+!B?g~w_Xa}?g~w@mCRSk~w_[]}UKo@f[\Bmww~_{\Bmww~@K\BmpK~@@	?yzU:QDxQhKxNvid9yUaqqZFB@8g0c3F380NXVF0LHCF5F0@!DK2H0@8!4#406D0V!80VV2010	11	2224552-01-4	Enamine $118 for 5 mg	fj}P`@DX@{HhhhddjihdiFUkIVjjjj`@h@@	2.4817
+!B?g~w_Xa}?g~w?Dz?tMJw_[_}pIeTn{\Btl~w_UMg`CFw@k]}?`Bw?K_|?`@	=jzTzUzjQESvj5wmvfd9zAeaoZFBDdg0@3K580OaVk02qSH5HV@!iJ6L0@D0o$40230V208VcV6030	23	1940487-87-5	Enamine $118 for 5 mg (Z1078672042)	fnsQ`@DXAxNQQQQII[JHqIRLkUVmUUUTt@E@@@	2.5448
+!B?g~H_[]}b@K~_?y?mpJH_Xa}mwvw__y?mpJH_Xc|?`BH?Xc|bOrH?P	:UtzdzTzK:QD9QEMBFQef9aAX6ZVFB@8h0@2F58F@XVF02H5F1F0@!BF2m08@102&1%8VV$	8	77603-66-8	Enamine $91 for 5 mg	fj}q@@DXLAIfYU_vUd[UleZjjjj@B`@@	2.5461
+!B?g~H_[]}b@K~_{\B?g~H_Xc}?`Bw_[_}b@K~_x`BmpK~_{]}?`Bw@k_|?`@	?uzUjmQyxE3QVOrhA0i062gYV88Qx2a9018LFQ6HX84GF#4sV8JPI2F1v4H080W!8!F0c0l82010	5	1119237-71-6	Enamine $91 for 5 mg	fnsa`@D@m{HhhhdheMDydiNMFkVjBhJX@B@@@	2.7758
+!BbOrH?_x@bOrH@ox@b@K~@Ha}b@K~_xa}bOw~_xc}bOs~@Hc}b@Jw@hc|bGt	:UvzvzvzSznvydQIn5OUej4a27AZkQBddx22VF58M8X8FZ301F14@6k0BJ2m!2d62$801FF#FX%	18	1333934-64-7	Enamine $91 for 5 mg (Z1148739985)	fnsqB@INbHDPdrnwJzsKQegU[@AMUUUUE@@@	2.8005
+!B?g~H_[]}bOs~_?y?m?rH?Xa}m?vw?_y?m?rH_[]}?g~H@k\Bmww~@K_|m?s~@@	=jzTzUzjQECvj5wFved9rAeaoVFB@8g0@3J580NXVF02HCF1F0@!DJ6H0@@0F$4!3$80VV6030	22	2038200-22-3	Enamine $118 for 5 mg (Z391877538)	fakQ`@DX@FNQQQQII[IQFIJQmV[ujjjjih@J@@@	2.8868
+!B?g~H_[]}tMINo?y?mpITnz[@pIfw_[]}XAjw@ai`FENw?PC~FBp	:UvzvzuzSznvydQIn1OUAv0a27AZk9BsWx@2ZFb8M1X8FiA01H54D6k2B42m!2d42FF$90k#F&	20	911696-56-5	Enamine $91 for 5 mg (Z890203712)	fbmQ@@DV@dsLro|jIQgIruPUAEUQ@@@	2.909
+!B?g~w?Xc}E~qn_xc|?g|_ISnkbOvH?ZmDmZ~?Moy?w}eZXJmDjtQZXJmDVf@	=fzUzxzjUDPQU7RuvfC9gEXZZZtiTCg8@3G5@1I6VV20LOL0FZH!cRHH0@HFZ01J0283VZ01N0cVV$	10	1795303-12-6	Life Chemicals HTS Compounds, Canada, $69 for 5 mg	fnsQ`@DXAznQQQQIIQKRiYZ}YvRmUUUU@AU@@@	3.035
+!B?g~w?Xc}E~qn_xc|?g|_ISnkbOvH?ZmDmZ~?Moy?w}eZXHa}jtRkQEi`jtQZX@	;vzfzUzxzjQDPQU7Ruvfh9iEXZZZODTCg8@3G5@1Q6VV22LSL1FZP!gR2m0@P0Z01J0283W401N0cVV$	9	1798660-77-1	Life Chemicals HTS Compounds, Canada, $69 for 5 mg	fakp`@DX|AnQQQQIIQKPi[KWkNKUjjjjhHBj@@@	3.1444
+!B?g~H_[]}b@K~_?y??`BH_[]}tMINouR{ilC@fV@ZFf@XTpC~FBp	:UvzvzvzSznvydU3v1OUQv0a27Agn2BsWx@3ZFb8L1e@FiA03I50B6k2B42m202d72FF$90k$F4$	19	1252509-45-7	Enamine $91 for 5 mg (Z890203832)	fbmQB@A^xBHrJJIQFZKZILdYr\pPLUUUQP@@	3.1711
+!B?g~H_[_}b@K~_{\B?g~H?Xc}?`Bw?[_}?g~H@k\B?g~H_[]}?`BH@k_|m?s~@@	?szyCnxoxU1t0MjBe0yV3@gY0N8Px2Z90F8HFf6FV2W0F1206kVDJ@32J5d0H0B0W%H#W8$	6	1197554-67-8	Enamine $91 for 5 mg	faka`@D@]EIfYVWg{WeXpV}ZhJ`fHHB@@@	3.2037
+!B_g~wo_B}_g~w_OA|_g~w_[^}|Kwp_[]|_g~w?_A}mwq~_{^}|Ku~_wy?mpOp_[_|	{jzizQC_RLzidQyfbiZVFT@cg0c2FG90NXVF12nCFWH0P!DJ2P0DB&1!2!2#VV$	12	1645475-91-7	Enamine $91 for 5 mg	fi{Q`@DX@yjSLrj~krmrMju^mUUUUT@QT@@@	3.3996
+!B?g~w_Xc}m?s~_}@rSk~w_[]}IlATn|BY?g~w?KmTXAj[iB[@aBm`Ff@ZaBl	:UvzvzyzSzjvyOQCbSuvfxCwUYbaoFCzCg@8YGYR2O6dkT5LOL4Fx2V0gF2H0@V2Z04J0H83@5s8c0VVV0V!	14	2419488-71-2	Enamine $118 for 5 mg (Z1998277018)	fnsq@@DXbCHhhhdheMFidiVtZkVjjjjk@B`@@	3.5496
+!B?g~H_[]}b@K~_{\B?g~H_Xc}?`Bw_[_}?g~H@k\B?g~H_[]}?`Bw@k_|?`@	:UvzfvNzRCmOJ9U1OFGX8e0L!XgY088Px248#HFA6FV2!F1!6kVDJ@32F1d0H080V%F#W8$	2	1090379-13-7	Enamine $91 for 5 mg	fns``@D@]dTTTRTRtVtJTkFCUkUATDq@A@@@	3.8972
+!B?g~H_[]}b@K~_{\B?g~H_Xc}?`Bw_[_}?g~H@h`BmpK~_{]}?`Bw@k_|?`@	:UvzfvPzNjmQTOE1OFOm9A0D02XgY088Qx248018HFA6FX84FF#4sV8J@I2F1f4H0N0V!8!F!VW8$	3	949376-62-9	Enamine $91 for 5 mg	fns``@D@}dTTTRTRfb\rTkFcUkUATEL@A@@@	3.8972
+!B?g~H_[]}b@K~_{\B?g~H_Xc}?`Bw_[_}?g~H@k\B?g~w__x@mpJw?Ox@m?p	:UvzfvNxFCmGJ9EGO0GX8@04!2gY188Px248#HFA6FV#F!24kV8R@32F1d0H080V%F#W8$	4	1030226-47-1	Enamine $91 for 5 mg	fns``@D@]dTTTRTRtUfRtkFBVkUATDp@E@@@	3.9718
+!B?g~w_Xa}?g~w@hc|?g~w?[]}?`BH_Xa}mpK~_{\Bb@K~_{]}mww~@Ha}?g~H@hc|bGt	zyUvTYOFdFCk0J9E1N0lV9@$28Y08BLx248#HlA6FV#J01Z4kV80e12F1d0H080V01040F#18$	1	632293-62-0	Enamine $91 for 5 mg	few``@D@|dsLkK\{woJqhyZN[UAT@L@@A@@@@	4.0088
+!BbOw~_xc|bGvH?X`BbGvH@oy?bGvw_X`B?g?~_?x@bGvw?X`B?g~H_Xc}?g|	:UvzfvOxFCmGJ9EGO0GX8@04!2gY388Px248#HFA6FV#F!24kV8R@32F1d2H080V%F#W8$	7	333765-99-4	Enamine $91 for 5 mg	fns`b@@b|BHrJIKJZJIQFYJcGQjv@BXHFJjB@@	4.2339
+!BbGw~_x`BbGvH_X`BbGvH@oy?bGvw__y?b@K~_{]}bGw~_xa}mww~_?y?mwt	:UvzvztzSxnvwtQGn1QE9y4w27AZZANt8x20l0Y8I120Fi1V0F86D4k2DJ22044d220J!82!F#FX%	16	875229-67-7	Enamine $91 for 5 mg (Z1213699340)	fnsQB@IQDBHrJIKJZJIHjIJcG^jv@BZjjjjJ@@	4.3095
+!BbGw~_x`BbGvH_X`BbGvH@oy?bGvw__y?b@K~_{]}bGw~_sAmSvwFw}g_\|\Lqp	:UvzvztzSxnvwtQGn1QE9y4w27AZZANt8x20l0Y8I120Fi1V0F86D4k2DJ22044d220J!82!F#FX%	17	1021279-11-7	Enamine $91 for 5 mg (Z1213699320)	fakQB@IQDBHrJIKJZJIHjIITX{s^p@SUUUUTT@@	4.6515
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="P@@@@">
+</hitlist data>
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_CAS="80">
+<columnWidth_Table_Number="80">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_Supplier="80">
+<columnWidth_Table_cLogP="80">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<filter0="#double#	cLogP">
+<filterAnimation0="state=stopped low2=80% high1=20% time=10">
+<formLayout_Form View="TableLayout,5,9.0,-1.0,9.0,-1.0,9.0,13,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0">
+<formObjectCount_Form View="4">
+<formObjectInfo_Form View_0="Number	textLine	1, 9, 1, 9, full, full">
+<formObjectInfo_Form View_1="CAS	textLine	1, 11, 1, 11, full, full">
+<formObjectInfo_Form View_2="Supplier	textLine	3, 1, 3, 1, full, full">
+<formObjectInfo_Form View_3="Structure	structure	3, 3, 3, 9, full, full">
+<headerLines_Table="2">
+<mainSplitting="0.7874">
+<mainView="Structures">
+<mainViewCount="3">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	right	0.477">
+<mainViewDockInfo2="Table	bottom	0.655">
+<mainViewName0="Table">
+<mainViewName1="Structures">
+<mainViewName2="Form View">
+<mainViewType0="tableView">
+<mainViewType1="structureView">
+<mainViewType2="formView">
+<rightSplitting="0.63586">
+<rowHeight_Table="80">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="7">
+</datawarrior properties>

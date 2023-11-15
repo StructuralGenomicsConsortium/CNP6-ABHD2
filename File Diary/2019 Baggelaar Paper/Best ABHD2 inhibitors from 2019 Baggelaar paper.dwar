@@ -1,0 +1,65 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1688554099258">
+<rowcount="10">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D	FragFp	Number in paper	Structure	SMILES from paper	Comments
+!B?g~H_[_}?g~H?K\B?g~H_[_}bGvw_[_}b@K~_?y?mwvH__y??g~H_P	:UvzvzyzSzjvydQCbCszAxCoA3EZkFCzBg@8mFYF2G2cFT1H9L0Fh2V0BJ2H0@V$F0F8124N8V!VV$	183	fj}Q@@DXAdTTTTRRVLrRkF}dkUUUUP@T@@@	wrong	TH14125<NL>Wrong SMILES in SI.
+!Bb@K~@Ha}mpJH@dz?tMK~@Ox@pIf{JuR{b@Jfw{lkXFVfwz[_XFT	:UvzvzyzSzjvy9QCbCsvAxCoA37ZkFCzBg@8YFYF2G2cFT1H9L4Fh2V0BF2H0@V$J0F81@4s8V!VV$	184	fbmQ@@DXAdTTTRTRIbReYQdyZjjjh@J@@@	wrong	Eve to synthesise.<NL>Wrong SMILES in SI.<NL>Selective for ABHD2 but not very inhibiting.
+!B?K]}mxc|m?s~@Ha}s|tq`H`B?g|kaM~fbGw~@Ha}osFH_ULXs\~?LRqgs\?Msp	:UfztSanJjwYadOCiNkIYQc68GL8V4BRIx092FdFB5D4d2e6HN0N!K2N08GGN9WW!k801V!2020V0V1V0V	185	facYb@L\EjNXHR@HrRPqQIIQJjFIZLmTuSU[UT@@	CCN(CC)C(=O)n1cnc(n1)S(=O)(=O)N(CCC#N)CC(C)C	Selective for ABHD2 but not very inhibiting.
+!BL[?OsX@qs]CRsrpXwz[|bH@qTv\q`BnDtl?Rs{_|Tv_~@K]}m?s~_{]}mwt	zrUtUtOr1JEwV2f9EN0kIAQc4BFJ9V484Ht0E0mcFN_@4d0V6HN0OV0K4N0cGKs1WW50V805W!203F!V1!V	186	fncib@L\EiLDQ@DYIHXhiddmhXehs`kULDaCUT@@@	CCN(CC)C(=O)n1cnc(n1)S(=O)(=O)N(C)c2ccccc2	Selective for ABHD2 but not very inhibiting.
+!BL[?OsX@qs]CRsrpXwz[|bH@qTv\q`BnDtl?Rs{_|Tv_~@K]}m?s~_{]}mwt	zrUtUtOr1JEwV2f9EN0kIAQc4BFJ9V484Ht0E0mcFN_@4d0V6HN0OV0K4N0cGKs1WW50V805W!203F!V1!V	71	fncib@L\EiLDQ@DYIHXhiddmhXehs`kULDaCUT@@@	CCN(CC)C(=O)n1cnc(S(=O)(=O)N(C)c2ccccc2)n1	Good inhibitor of ABHD2, also inhibits ABHD6&11.
+!BL[?Os\wP`CG_iorHtl|q`BnD`CESY{_|tl?Rs?x@m?uSY{_|?g~w?[_}	zrUtUtOq9JEw02c9EN0kIAAc48FJ8V484Ht0C0H80N_@4d0V6HN0OV0K0N08GGN0VW10V!1W!202#V1!V	72	ff}Ib@JLDFBO@BLddLRRbrTQfPiNbmMRDCEU@@@	CCN(CC)C(=O)n1cnc(S(=O)(=O)Cc2ccccc2)n1	Good inhibitor of ABHD2, also inhibits ABHD6&11.
+!BL[?Os\wP`CG_i`JHtl|q`BnD`CESY{\BKAcRs{}Ntl?~@K_}Tv^w@oy?m?vw?P	zrUtUtOr9JEw02cCEN0kIQAu48FJ8Y484Ht0C0H80N_@4d0V6HO0OV0K0N08GIN0VW10V081W!302!1V180V	81	fasIc@JLDfBH`BKRGiCIICDdhmEEMYdJP\kSTaQCEU@@@	CCN(CC)C(=O)n1cnc(S(=O)(=O)Cc2c(F)cccc2F)n1	Good inhibitor of ABHD2, also inhibits ABHD6&11.
+!B_Xc|bK_}bOw~_{\BSk?Pthc}m?w@fUR{?g?~_}KOm?v@LUMgFa}??f]SYQ|	:Utzt:nKjxYDf9EU8kIAQd4BLJdV4B4Hx0E2mdFN_@Zd0V6HN4OV0K4N0eGKs1WW50V805W!X03F!V1!V	84	fnsib@L\EiLDQ@DYIHXhiddmhXehs`uZmTpRDMUQ@@@	CN(c1ccccc1)S(=O)(=O)c1ncn(C(=O)N2CCCC2)n1	Weak inhibitor of ABHD2, quite selective.
+!B_Xc|bK]}bGw~_{\BSk?Ptha}mww@fUR{?g?~_}KOm?v@LUMgtl~?SeMgTv^?S`	zrzxztUzrpzxr@fOEUBkIfQd4BLJ9Vog6Pt0E3mhFNb@Zd0V6HN0OV0K4NFsGKs3lW50V805W0V203F8XV1!V	87	fakhR@L\EiLDQz@HrRPqQSII[PqIZLxK^kULDaCUUD@@	CN(c1ccccc1)S(=O)(=O)c1ncn(C(=O)N2CCOCC2)n1	Good inhibitor of ABHD2, also inhibits ABHD6&11.
+!BYrqN`EMg`CF?SmKOUHPBmuMgs]CPs\Bfotz?Sh`Bs]C~@Ha}?g~H@k]}?`C~_x`Bmww~@@	zrzxztUzrpzxb@fOEUBkIfQd4DLJ9VoBJHt8E3mhFNb@Zd2V6HN0OV0K4N0sGKs3lW50V805W0V203F80V1!V	94	fmgiR@L\EiLDQzL@QddabbfRRvabRRVcNBmTpRDMUUT@@@	COCCN(CCOC)C(=O)n1cnc(S(=O)(=O)N(C)c2ccccc2)n1	Good inhibitor of ABHD2, also inhibits ABHD6&11.
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="A@">
+</hitlist data>
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_Comments="80">
+<columnWidth_Table_Number in paper="80">
+<columnWidth_Table_SMILES from paper="80">
+<columnWidth_Table_Structure="100">
+<columnWrapping_Table_Comments="true">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<formLayout_Form View="TableLayout,3,9.0,-1.0,9.0,15,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0,-1.0,6.0">
+<formObjectCount_Form View="4">
+<formObjectInfo_Form View_0="Number in paper	textLine	1, 1, 1, 1, full, full">
+<formObjectInfo_Form View_1="Structure	structure	1, 3, 1, 9, full, full">
+<formObjectInfo_Form View_2="SMILES from paper	textLine	1, 11, 1, 11, full, full">
+<formObjectInfo_Form View_3="Comments	textLine	1, 13, 1, 13, full, full">
+<headerLines_Table="2">
+<labelColumn_Structures_topCenter="Number in paper">
+<mainSplitting="0.72073">
+<mainView="Table">
+<mainViewCount="3">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.499">
+<mainViewDockInfo2="Form View	center">
+<mainViewInFront2="true">
+<mainViewName0="Table">
+<mainViewName1="Form View">
+<mainViewName2="Structures">
+<mainViewType0="tableView">
+<mainViewType1="formView">
+<mainViewType2="structureView">
+<rightSplitting="0.65677">
+<rowHeight_Table="80">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="6">
+</datawarrior properties>
