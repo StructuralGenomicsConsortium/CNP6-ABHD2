@@ -16,13 +16,19 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Current scientific status of the project is on the [wiki](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki) (you can always find the relevant tab above).
 
 Some humans involved in this Open Chemistry Networks Project:  
-Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
-Dr Eve Carter, University College London, postdoc (chemistry and biology) @EveCarter  
-Dr Oliver Arnolds, Karolinska Institut, postdoc (biology) @OliverArnolds  
-Dr Martin Haraldsson, Researcher, Karolinska Institut, @MartinHaraldsson
+Dr Oliver Arnolds, Karolinska Institut, biology @OliverArnolds  
+Professor Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd  
+Dr Eve Carter, UCL, chemistry @EveCarter  
+Dr Madison Edwards, SGC Toronto, protein production  
+Dr Claudia Tredup, SGC Frankfurt, project management  
+Prof Al Edwards, SGC Toronto, protein production  
+Prof Opher Gileadi, Karolinska Institut, protein production  
+Dr Martin Haraldsson, Karolinska Institut, biology @MartinHaraldsson  
 Dr Evert Homan, Karolinska Institut, Senior Research Specialist  @Evert-Homan  
+Dr Dalia Barsyte-Lovejoy, SGC Toronto, CETSA  
+Dr Magdalena Szewczyk, SGC Toronto, CETSA  
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): [Jeffrey Mowat, Janssen](https://www.linkedin.com/in/jeffrey-mowat-4571856a/) @jsmowat  
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Aidan Pidd (Manchester) @AidanPidd  
+[Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant
 
 You can see all the other contributors in the Issues (tab above).
 
