@@ -1,0 +1,144 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1689599959662">
+<rowcount="53">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnProperty="idColumn	Molecule Name">
+</column properties>
+idcoordinates2D	FragFp	Structure	Molecule Name	Compound ID	Batch ID	Act (%)	IC50 (�M)	Comments	cLogP
+!Bm?vw?Oy??`Bw?[]}bGvw@h`Bm?s~_?y?m?w~@Hc}b@Jw@ox@?`Bw@`	:UvzvzyzSzjvydQCbCszAxCoA3EZkFCzBg@8mFYF2G2cFT1H9L0Fh2V0BJ2H0@V$F0F8124N8V!VV$	fj}Q@@DXAdTTTTRRVLrRkF}dkUUUUP@TPIP@	CBK600192	CBK600192	DO6598024	90.8841880992239	0.22	TH014125; Cpd 183	3.9492
+!BbGvH@oy??`BH_[_}bOvw@h`Bb@K~_?y??`Bw_Xa}bOvw@k\Bmwt	:UvzvzyzS:vTdQErCNu@zC6E2UZkFCf8h2@bHYFHkXcF69H8F1G90c4BJYH0@X104G40F8010F0V!VV$	fbmQ@@DXAdTTTTRRbvQUxpTyZjjjB`JHDh@@	CBK600191	CBK600191	DO6598023	87.6905454225042	0.33		3.6988
+!B?`Bw?Hc|?`Bw?Xc}?`Bw@k_|?g~H?H`Bmww~@K]}bGw~@Oy?b@JH_Xa}b@H	:UvzfvPzNjmQTOE1OFOm9A0D02XgY088Qx248018HFA6FX84FF#4sV8J@I2F1f4H0N0V!8!F!VW8$	fns``@D@}dTTTRTRfb\rTkFcUkUATEL@AA@U@@	CBK600209	CBK600209	DT9003016	85.344696393243	0.49		3.8972
+!Bm?vw?Oy??`Bw?QaSYuNw@h`Bm?qeGqh_m?w~@EMgb@Jw@k}Ntl?~@Ox@Tv]SY{\Btl}SY{}Ntl}SYuMgtl|	:UvzvzyzS:nytQSzCvrAxhq8MUgkKSzTw@CnFYF@KeglyY6QT1Rj2_0BJ@I1@VVW02o0FC124NN#XV1!V	e`RRH@@DLFM@LbbbbbRRNbbRRqTRRefaePwTswsUUTmP@@A@APDAE@@	CBK600218	CBK600218	DT9004003	81.3270430680262	0.026	KT109	5.7837
+!Bm?vw?Oy??`Bw?V]SFENw@h`Bm?pZGvT_m?w~@H`BmpK~@Ox@mpH	:UvzvzyzSzjvydQCbCszAxCoA3EZkFCzBg@8mFYF2G2cFT1H9L4Fh2V0BJ2H0@V$F0F8124s8V!VV$	fbmQ@@DXAdTTTTRRSbRU[QdyZjjjh@JHDh@@	CBK600172	CBK600172	DO6598004	69.5744118424531			3.6072
+!BbGvH@oy??`BH_[_}bOvH@h`B?g?~_?x@bGvH?[\B?`Bw_[_|mpJw?P	[r:jzizQEbgTUj99DfbD_ZkDPdg8e7Ip8Z3qVH2PrFF0F0F88cFIH082H4!405029X#c8VV$	fj}P`@DX@[HhhhddilXdiVt{IVjjjj`@h`J@@	CBK600176	CBK600176	DO6598008	64.5166975063882			3.2759
+!BmpJw__x@mpK~_x`BmpJw_[_}bGw~@Ox@?g~w@oy?b@Jw@k_}mwvH__x@mpJH@h`B?`@	zyUvTYOFdFCk0J9E1N0lV9@$28Y08BLx248#HlA6FV#J01Z4kV80e12F1d0H080V01040F#18$	few``@D@|dsLkK\{woJqhyZN[UAT@L@@A@@@@	CBK600196	CBK600196	DT9003003	53.0411403642266			4.0088
+!Bb@K~@Ha}m?rH?Oy?b@K~@Ox@mwvH_Xa}b@Jw@oy?b@K~@K]}bGw~_?y?bOt	:UvzfvNzRCmOJ9U1OFGX8e0L!XgY088Px248#HFA6FV2!F1!6kVDJ@32F1d0H080V%F#W8$	fns``@D@]dTTTRTRtVtJTkFCUkUATDq@A@@@	CBK600208	CBK600208	DT9003015	49.2263988231117			3.8972
+!Bm?vw?Oy??`Bw?[]}bGvw@h`Bm?s~_?y?m?w~@Hc}b@Jw@ox@?`Bw@`	=vzyzxzjzydQEbCszfxCoA3EZkkhzgg@@mFbF2I2cFT1H9L0Fh2V0BJHH0@XF#F0F812ZN8V08VV$	fj}P`@DXA{HhhhhddlYdeVM{IVjjjj`@h`R`@	CBK600170	CBK600170	DO6598002	44.4091990483743			2.7852
+!Bm?w~_{_|mwvH__x@m?w~_?y?b@Jw@k_|bOvH?_x@m?vH@k\B?`C~@K\B	:UvzfvNxFCmGJ9E1O0GX8@04!2gY088Px248#HFA6FV#F#4kV8J@32F1d0H080V%F#W8$	ffc``@D@]dTTTRTRtUfReXpRuZhJ`f@@`@@	CBK600169	CBK600169	DO6598001	40.5674508767292			3.6279
+!B_X`BbG?~@Oy}bELXTv_|b@JHGvT_FovHm?rw?[]}m?p	:UfzvzirS:IDc9CEBkIA9d4NLJcVJBDPw09@F108p@ZW0V6HN0F!K0NF@I1P!W!V!1$F#XV1!V	fhyI@@DXYpBSLrj{lcJuxKUURuKT@@	CBK600188	CBK600188	DO6598020	39.9682791435369			2.4287
+!B@@[\|OCC|LLF_p@FnuoZ`@Y?@@Y[aKm[vhA?^PY?VxP@AenDnuldn}j@_wgEop@FVxPdnrR{vhA?^UnD_we[aG}yq[|	;j;irzy;xsjbxiUbrCzvhzmcZpnVV8sqSm8ZgZkaLEnJ09m1V16f0Z0VBg4F8Z&V0V03#c0J0	el\XJ@@B`DE@elbbRRRbRRbVbrRTURRpHZjjjjZjjfjjhcADHRQP@	CBK290296	CBK290296	DT9004001	35.205194541673		Orlistat	7.6187
+!Bb@K~@Ha}mpJH@oy?b@K~@Ox@bGvH_X`Bb@Jt^HmxJa@?jXmxbw`?jP	?yzU:QiwQEKTHyid9qE6oZVFR@cgKeYH1V0NXV!2HBF3F0880DM3H0@D!41411041!28!VV2010	fj}P`@DX@{HhhhddmhXdiFu[IVjjjj`@h@@	CBK600177	CBK600177	DO6598009	25.9053661115517			2.9146
+!BbGw~_x`BmwvH__x@bGw~_?y?mpJH@h`BbOvw__x@bGvw?Hc|?`C~@H`B?`@	:UvzfvNxFCmGJ9EGO0GX8@04!2gY188Px248#HFA6FV#F!24kV8R@32F1d0H080V%F#W8$	fns``@D@]dTTTRTRtUfRtkFBVkUATDp@E@@@	CBK600210	CBK600210	DT9003017	25.607467153655			3.9718
+!Bmwvw@oy??`Bw_Xc}m?vw@k\B?g~H?Oy?mwvw?Xc}?g~H?Hc}bOvH?Hc}bGt	:UvzvzyzS:vydvSrCNUAzC_AEUZkSCv9h@8YF3FM52cJD1H1H0og2W6BJ2m08014@VF0J91!F0V0FX!V!	fnsq@@DLZCHhhhdheeXdliVL{IVjjjj`@nbFB@@	CBK600185	CBK600185	DO6598017	20.2661027403295			2.6527
+!BmpK~@K_}b@Jw@oy?mpK~@Ox@m?vH?_x@m?vw@oy??g~w@k\BbGvw_P	:UfzvzirSzjvydOCbCNQ2xCJAYEVkFCv8g@8XFYR202c061H0F0FO0V0BJ2H08V$F0G8#F0V!XV$	fj}Q@@DX@dsLkLzor\GJRmUUUUUUT@@	CBK600190	CBK600190	DO6598022	14.0805357300203			4.161
+!Bm?vw?Oy??`Bw?[]}bGvw@h`Bm?s~_?y?m?w~@Hc}b@Jw@oy??`C~@Oy?mpH	:UvzvzyzSzjvydQCbSszfxCqA3jZkFCzBg@8mFYF2O2cFT3HCL1Fh@V0DJ2H0@c$F0F8124N8V!VV0V!	fnsq@@DXjCHhhhhddlXddeVMxkVjjjj``rbAJ@@	CBK600181	CBK600181	DO6598013	13.0584192439863			3.4641
+!B?g~w_Xa}?g?~_xc}?g~w_Xa}?g~H@k]}bGvH_[\B?g~H@k]}bGw~_?y?bOt	:UvzfvOxFCmGJ9EGO0GX8@04!2gY388Px248#HFA6FV#F!24kV8R@32F1d2H080V%F#W8$	fns`b@@b|BHrJIKJZJIQFYJcGQjv@BXHFJjB@@	CBK600200	CBK600200	DT9003007	10.3282098107848			4.2339
+!B?g~H_[]}?g?~_{]}bGw~_xc}m?vH@oy??g~H?_x@m?vH@k\B?`C~@K\B	:Uvzv;S:vydvCrCNUAzU_AEUZkLCv9h@8YF3GL52cJE1H1H0kg2W6BJ2m08016@VH0J91!F0V!X%	ffcQB@A^\BHrJIJEQQJHsITYXIZp@UUSUUEPeP@	CBK600182	CBK600182	DO6598014	6.30892589655476			3.4231
+!BwydkaFT_FfC_fRqgGvTkaBnDTv_~_{_|wyfw?[_}m?p	:Utzt:rK:IDeECUBlIQ9d4B6JhWJBDDwVC2k1085@aW0V6HK0F40588k2I7d!W5@V0X58$1F0YZ1!V	fhyI@@DXXhFQQQQIJHkRlkW`mUUHPE@@@	CBK600186	CBK600186	DO6598018	5.56877257908186			2.0471
+!BVImkPsPFCo\WJoh@~g|[HvaUFrNwF^Rcmv[dgA\jCo\MiqlcZETN}p{wZET	:UvzvzyzSzjvydQCbCszAxCoA3EZoFCzBg@8mFYJ2G2cFT1H9L4Fx2V2BJ2H0@V2#F0F81P4s8V!VV$	fnkQ@@DXAdTTTTRbbV\rRoF]ZMVmUUUUT@EP@@	CBK600184	CBK600184	DO6598016	4.28231562252179			4.3054
+!Bb@JH__x@?g~H@k_|bOrH_[]}bGw~@Ox@b@K~_x`BmwvH__x@?g?~_xc}	:UvzvzyzSzjvydQEbCszfxCqA3EZkFCzgg@@mFbF2Q2cFT3HCL1Fh@V0BJ2m0@e$F0F8134N8V08VV$	ffcq@@DX|CHhhhhddlXdljqoEjuUUUTDAQ@e@@	CBK600171	CBK600171	DO6598003	-1.11022997620933			2.8946
+!BIVC_qiQDv\AsQ|CYIVBODg?~eDRTQOx@cvusNBU`mpJH@ox@?`BH@ox@b@H	=fzUzxzjUDPQU7RuvfC9gEXZZZtiTCg8@3G5@1I6VV20LOL0FZH!cRHH0@HFZ01J0283VZ01N0cVV$	fnsQ`@DXAznQQQQIIQKRiYZ}YvRmUUUU@AUDAD@@	CBK600221	CBK600221	DT9004006	-1.58271191599453	-		3.035
+!BtmB@SeLXKF_RtAi`_?z@ShANYrqeXMKP?`Bw@h`B?`C~@H`B?`BH@`	;vzfzUzxzjQDPQU5Rmuf99iE2ZZZODDCg0@3I121O6VV02LSL4FZH80eN3H0@P0Z0140203W4V1N0WVV$	fj}P`@DXAgHhhhddlXdliFUjJVjjjh@Jh`j`@	CBK600173	CBK600173	DO6598005	-1.92087408582253			3.515
+!BmpJw__x@mpK~_x`BmpJw_[_}?`C~@Oy?mpJw@k_}mwvw@`	:UtzdzTzG:QD9EESBkuAA9aA26gYFBDRh08DH10FlfVF08H1L0GZ28V8FYH2N01&F1141$kc$	fdeQ@@DX@dsLjm{rMipXmUUTDAP@@	CBK600175	CBK600175	DO6598007	-8.05357300202663			2.5635
+!Bmwvw@oy??`Bw_Xc}m?vw@k\B?g~H?Oy?mwvw?Xc}?g~H?Hc}bOvH?@	:UvzvzyzS:vydvCrCNUAzC_AEUZkJCv9h@8YF3FL52cJD1H1H0kg2W6BJ2m08014@VF0J91!F0V!X%	fj}Q@@DLAdTTTRTRrlRTkF]dkUUUUP@TPpP@	CBK600183	CBK600183	DO6598015	-8.44127235879815			2.8171
+!Bb@JH__x@?g~H@k_|bOrH_[]}bGw~@Ox@b@K~_x`BmwvH__x@?g?~_{\Bb@JH?P	?yzUzjvzhvjbxszfxCrAfjokFCzBg@@nJbN2OXcFT3HCL1Fh@V0DJ6H0@e0F!F0J8134N8V80VV6030	fakQ`@DXAUnQQQQQIIXqIJIUc^KujjjjhHFJHDh@@	CBK600189	CBK600189	DO6598021	-8.61749933914881			2.9422
+!BbGvH@oy??`BH_[_}bOvH@h`B?g?~_?x@bGvH?[\B?`Bw_[_|mpJw?P	[r:jzizQEbgTUj99DfbD_ZkgPdg8e7Ip8Z3qVH2PrFF0F!88sFIH082H4!405029V#c8VV#F	fj}q`@DXJ@slbbbbRRfqbRe[SleZjjjj@Bb@b@@	CBK600220	CBK600220	DT9004005	-12.5602394359053			1.111
+!B?`Bw?Hc|?`Bw?Xc}?`Bw@k_|?g~H?H`B?`Bw_[]}bGw~@Oy?b@JH_Xa}b@H	?uzUjmQyxE3QVOrhA0i062gYV88Qx2a9018LFQ6HX84GF#4sV8JPI2F1v4H080W!8!F0c0l82010	fnsa`@D@m{HhhhdheMDydiNMFkVjBhJX@BB@b@@	CBK600207	CBK600207	DT9003014	-12.6819865063664			2.7758
+!BbOvH?Oy??`BH?V]SFENH@hc|Fa}eGxc}b@JH?_x@b@Jw@ox@?`Bw@`	?yzU:QDxQhKxNvid9yUaqqZFB@8g0c3F380NXVF0LHCF5F0@!DK2H0@8!4#406D0V!80VV2010	fj}P`@DX@{HhhhddjihdiFUkIVjjjj`@haZ`@	CBK600212	CBK600212	DT9003019	-14.6299396337442			2.4817
+!B?g~w?Xc}?g?~_xa}?g~H?[_}?g~w?K]}bGvw?[\B?g~H__y?b@JH_Xa}b@H	:UvzvztzSxnvwtQGn1QE9y4w27AZZANt8x20l0Y8I120Fi1V0F86D4k2DJ22044d220J!82!F#FX%	fnsQB@IQDBHrJIKJZJIHjIJcG^jv@BZjjjjJ`j`@	CBK600198	CBK600198	DT9003005	-14.8125602394359			4.3095
+!B_X`BbG?~@Oy}bELXTv_|b@JHGvT_FovHm?rw?[]}m?p	:UfzfzDrSzjQDNOC7SPPYC9TQXZVoFBP9g88HG18096c026qJF4F$eJ2H08804!F!82!V#VVV$	fhyQ@@DX@dsLjn{Hrm^BuUUUUU@@@	CBK600187	CBK600187	DO6598019	-14.9616706317737			2.77
+!Bm?rw?_x@m?rw@ox@m?vw@k_|mwvw@ox@mwvw@oy?mwvw?_y?	:UtzdzUzG:QD9EUSBkuAAQaA26gYOBDRj08DH11GlfVF18H1L0KZ28W8FYH2N01&H11B5#Gkc04!	fluQB@EVLCDRYVuvyVcIJbf@Bjfjhh@@	CBK600178	CBK600178	DO6598010	-16.1071460040532			3.2887
+!BtmB@SeLXKF_RtAi`_?z@ShANYrqeXMKP?`B@Sh`BmpKRtHANTqcRtMKPTq`	=jzTzUzjQESvj5wmvfd9zAeaoZFBDdg0@3K580OaVk02qSH5HV@!iJ6L0@D0o$40230V208VcV6030	fnsQ`@DXAxNQQQQII[JHqIRLkUVmUUUTt@EDET@@	CBK600203	CBK600203	DT9003010	-16.1720691929184			2.5448
+!B?g~w_Xa}?g?~_xa}?g~H_[]}?g~w@k]}bGvw_[\B?g~H_QE?ZNqDjv@e`CZJkp	:UvzvztzSxnvwtQGn1QE9y4w27AZZANt8x20l0Y8I120Fi1V0F86D4k2DJ22044d220J!82!F#FX%	fakQB@IQDBHrJIKJZJIHjIITX{s^p@SUUUUTUAU@@	CBK600194	CBK600194	DT9003001	-16.5373104043017			4.6515
+!BbOvH?Oy?bOvH__y?bGvH@oy?bGvw__y??g~w__y?m?vw@oy?m?w~@K_}?g|	:UvzvzvzSznvydQIn5OUej4a27AZkQBddx22VF58M8X8FZ301F14@6k0BJ2m!2d62$801FF#FX%	fnsqB@INbHDPdrnwJzsKQegU[@AMUUUUEPCP@	CBK600197	CBK600197	DT9003004	-16.8010957236341			2.8005
+!Bb@K~@Ha}m?rH?Oy?b@K~@Ox@bOvH_X`BbOs~@Hc}mpJH@hc|bOw~@Hc|b@K~@@	=jzTzUzjQECvj5wFved9rAeaoVFB@8g0@3J580NXVF02HCF1F0@!DJ6H0@@0F$4!3$80VV6030	fakQ`@DX@FNQQQQII[IQFIJQmV[ujjjjih@J@@@	CBK600199	CBK600199	DT9003006	-16.9228427940952			2.8868
+!B?g~H_[]}mpK~_{]}mww~_{]}mpK~_v]SFELZGq|ZYQ~{Jq|Zim~{J{lkim|	?yzU:vzhvjrxNUfv9rAjzok4Cudh@@YJ7NLCXcJD3H5H5mg2W6DJ6m08@1J@VF0J119Fk0V80X06030	fnsQ`@AF@aRS\kmsOroANCUkUUSUU@AQCQ@@	CBK600204	CBK600204	DT9003011	-19.6621518794704			0.5416
+!Bb@K~@Ha}m?rH?Oy?b@K~@Ox@mwvH_Xa}b@Jw@oy?b@K~@K]}bGvH@oy??g~H?P	?szyCnxoxU1t0MjBe0yV3@gY0N8Px2Z90F8HFf6FV2W0F1206kVDJ@32J5d0H0B0W%H#W8$	faka`@D@]EIfYVWg{WeXpV}ZhJ`fHHB@@@	CBK600201	CBK600201	DT9003008	-20.3723431238269			3.2037
+!B?`Bw?Hc|m?w~@Hc}?`Bw?K\BbOrH@ox@?`Bw@ox@m?rH?Ox@?`BH@ox@b@H	;vzfzUzxzjQDAQS5RFved9qAXaZVOD@8g082F1@1NXVF02HCF1F0P!DR2H0@N*X&VV$	fnsP`@DXAUIfYU_vUvQmVrUjjjjh@Jh@@	CBK600174	CBK600174	DO6598006	-21.4292008106441			3.8238
+!BmpJw__x@?g~w@h`BmpJw_[]}?`C~@Oy?mpJw@f]SFELZGvT_	:UfzfzDrOzjQTN9CCRuP39dgAm_cZFBTfw892G18816ZV2Wqmm0PV040sF2L1842_!G#28F!20VcVW0FV	flui@@DX|FHLbbbbRRftJe[ShiZjjjiji`H`@	CBK600215	CBK600215	DT9003022	-24.5320346979151			1.5864
+!Bmww~_{\BFEMgT{]}?`AeGv@ZFa~w@k\BaBo~@CF?pJZw@mCM@k\	:UvzvzuzSznvydQIn1OUAv0a27AZk9BsWx@2ZFb8M1X8FiA01H54D6k2B42m!2d42FF$90k#F&	fbmQ@@DV@dsLro|jIQgIruPUAEUQPIP@	CBK600214	CBK600214	DT9003021	-26.2162025059605			2.909
+!BYV@@?a`lFfC~@F@ZmpJDJz[@mww~@F@ZXAjw@h`BilAv`B\sLub?]k}vLu`gLp	;j;irx<dOEjCwUWThqArEckohrux2AH8jN@iic34YLak8u8VJ2NFF71Ffp12018FO01VF0X08X21!V	fakIb@HHYjb``BLdRRRbbVbtJRVBVBwmKUSUUUUU@@@	CBK600217	CBK600217	DT9004002	-27.7177497083143		JZP 430	4.06
+!BIVC_qiQDv\AsQ|CYIVBODg?~eDRTQOx@cvusNBU`mpJH@iQD?`C~@H`B?`BH@`	;vzfzUzxzjQDPQU7Ruvfh9iEXZZZODTCg8@3G5@1Q6VV22LSL1FZP!gR2m0@P0Z01J0283W401N0cVV$	fakp`@DX|AnQQQQIIQKPi[KWkNKUjjjjhHBjHBH@@	CBK600222	CBK600222	DT9004007	-28.1032820981078			3.1444
+!BbGvH@oy?bGw~@F]SFENH@h`BGqhZGvT_?`BH_Yg@nrnYpA|Zim~{J{lkim|	:UvzvzyzSzjvyOQCbSuvfxCwUYbaoFCzCg@8YGYR2O6dkT5LOL4Fx2V0gF2H0@V2Z04J0H83@5s8c0VVV0V!	fnsq@@DXbCHhhhdheMFidiVtZkVjjjjk@B`@@	CBK600206	CBK600206	DT9003013	-30.741135291432			3.5496
+!B?`BH@k\BbGw~@Ox@b@K~_{\BFEMgTvT_XAhZGxPkL[?@imCM@k\	:UvzvzvzSznvydU3v1OUQv0a27Agn2BsWx@3ZFb8L1e@FiA03I50B6k2B42m202d72FF$90k$F4$	fbmQB@A^xBHrJJIQFZKZILdYr\pPLUUUQTET@@	CBK600211	CBK600211	DT9003018	-32.4253030994775			3.1711
+!BaERYpFAeaERDUFAeaEQ`YQ`lFa?~@AaS@Ozw@h`B?`BH_X`Bb@JH_X`BbGt	:Uvzv;S:vydvSrSNUfv9rAjzZkCCudh@8YF3NMCXcJD3H5H5qg2W6DJ2m08014@VF0J1180k0V8kX108V0	fnsqB@A^ZxDadTRVRbbTlRVUFFmdl@EUTuUTUBU@@	CBK600202	CBK600202	DT9003009	-33.460153198397			1.5207
+!Bb@JH?_x@b@K~_{\Bb@K~@K_}bOw~@Oy??g~w@h`BbOvw__x@?`C~_x`BbGw~@H`B?g~H@ha}b@HBm?vH?g~H@hc}bGvH@`	;vvvzxrxxjvwvUSj@m7NsUy43AhW@QjiDZ520cH80VVFKX03Kf20GD9Lk2A9Vk0@G902GZ!284I02nkV8FF	eb^ZDF@BJBihVN`HbJHFBCiBzP^dLbbbbTQRbtRvRbrdTjW@e`VURNLAPUTEAEMUP@D@@@	CBK600219	CBK600219	DT9004004	-37.0111094201796		DO264	5.5415
+!Bmwvw@oy??`Bw_[_}bOvw@k\B?g?~_{]}bOvw@k]}mpK~_{]}mww~_p	:UtzdzTzK:QD9QEMBFQef9aAX6ZVFB@8h0@2F58F@XVF02H5F1F0@!BF2m08@102&1%8VV$	fj}q@@DXLAIfYU_vUd[UleZjjjj@B`@@	CBK600213	CBK600213	DT9003020	-39.3648861157612			2.5461
+!Bim~{JvAeGqjfwq`lFa~{J{lk?`@XTpC~im~w@h`Bnrnfw{lkXFVfwz[_XFT	:UvzvzyzS:vy9vEbSNvevCrAfrZkFCv9h@@aFbN2uXcJ6AHCF5H9@V4DJXm0@e148k!F!A0k0V08VW!V0	fnsp`@DX|AvQQQQIQKPeQIRmhuVmUUUST@EDFP@	CBK600205	CBK600205	DT9003012	-43.1187541216456			2.2024
+!Bb@K~@Ha}m?rH?Oy?b@K~@Ox@bOvH_X`BbOs~@Hc}b@JH?Hc}?`BH?H`BbOw~@Oy?	{jzizQC_RLzidQyfbiZVFT@cg0c2FG90NXVF12nCFWH0P!DJ2P0DB&1!2!2#VV$	fi{Q`@DX@yjSLrj~krmrMju^mUUUUT@QT@@@	CBK600195	CBK600195	DT9003002	-47.7045604423477			3.3996
+!B?`Bw?Hc|?`C~@H`B?`BH?K_|?`Bw?[\Bb@Jw?K_}?`BH@k\B?`C~@K\B	:UvzvzyzSzjvydvCbCszAxCoA3EZkFCzBg@8mFYF2G2cFT1H9q0Hh2V0DJ2L0@V$N0F8124N8V!cV$	ffcP`@FR@KHhdlihhdcDeQcoEjuUMUU@AQAU@@	CBK600179	CBK600179	DO6598011				3.2408
+!Bb@JH__x@?g~H@k_|bOrH_[]}bGw~@Ox@b@K~_x`BmwvH__x@?g?~_xc}	?yzUzjvyxQCbCuzjxCqA7EZkFSzgg@cmFYF2O2cFT3HCL1Fh@V0DJ2H0@g$F0G8124N@V!VV2010	ffcP`@DX@gHhhhhddlXdljqoEjuUUUTDAQ@e@@	CBK600180	CBK600180	DO6598012				3.0971
+<datawarrior properties>
+<axisColumn_2D View_0="Act (%)">
+<axisColumn_2D View_1="IC50 (�M)">
+<axisColumn_3D View_0="Act (%)">
+<axisColumn_3D View_1="IC50 (�M)">
+<axisColumn_3D View_2="Structure">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnAliasCount="1">
+<columnAlias_0="IC50 (�M)	IC50 (µM)">
+<columnFilter_Table="">
+<columnWidth_Table_Act (%)="80">
+<columnWidth_Table_Batch ID="80">
+<columnWidth_Table_Comments="80">
+<columnWidth_Table_Compound ID="80">
+<columnWidth_Table_IC50 (�M)="80">
+<columnWidth_Table_Molecule Name="80">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_cLogP="80">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<faceColor3D_3D View="-1250054">
+<fastRendering_2D View="false">
+<fastRendering_3D View="false">
+<filter0="#browser#	#disabled#	Structure	e`RRH@@DLFM@LbbbbbRRNbbRRqTRRefaePwTswsUUTmP@@A@APDAE@@ !Bm?vw?Oy??`Bw?QaSYuNw@h`Bm?qeGqh_m?w~@EMgb@Jw@k}Ntl?~@Ox@Tv]SY{\Btl}SY{}Ntl}SYuMgtl|">
+<filter1="#structure#	Structure">
+<filter2="#string#	Molecule Name">
+<filter3="#string#	Compound ID">
+<filter4="#string#	Batch ID">
+<filter5="#category#	Comments">
+<filter6="#double#	cLogP">
+<filterAnimation0="state=stopped">
+<filterAnimation6="state=stopped low2=80% high1=20% time=10">
+<headerLines_Table="2">
+<labelColumn_Structures_bottomLeft="Act (%)">
+<labelColumn_Structures_bottomRight="cLogP">
+<labelColumn_Structures_topCenter="Molecule Name">
+<mainSplitting="0.94751">
+<mainView="Structures">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.5">
+<mainViewDockInfo2="Table	right	0.473">
+<mainViewDockInfo3="2D View	right	0.473">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structures">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.66444">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<scatterplotMargin_2D View="0.025">
+<scatterplotMargin_3D View="0.025">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<significantDigitColumnCount="1">
+<significantDigits_0="Act (%)	2">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="8">
+</datawarrior properties>
