@@ -5,7 +5,7 @@ Our collective aim is to find a potent, selective, cell penetrant, small molecul
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
-If you're here in response to the community call to make ureas, you can read about what's needed [here](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki/Urea-Compounds).
+**If you're here in response to the community call to make ureas, you can read about what's needed [here](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki/Urea-Compounds).**
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
